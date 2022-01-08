@@ -1,4 +1,4 @@
-# toxic Comments Identification&Classification
+# Toxic Comments Identification&Classification
 
 Classafacition and idenifaction of comments found in wikipedia.
 
